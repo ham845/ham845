@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ham845
 - 👀 I’m interested in learning new programming logics
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C++, C#, Python, Assembly language Projects
 - 📫 reach me by my gmail hammad03212114643@gmail.com
 
 <!---
